@@ -9,3 +9,11 @@
 * [myTeachable](https://sso.teachable.com/secure/teachable_accounts/profile)
 * [Cassandra vs MongoDB](https://stackoverflow.com/questions/2892729/mongodb-vs-cassandra?rq=1)
 * 
+
+## Dialogflow
+* [Rich messages](https://dialogflow.com/docs/intents/rich-messages)
+
+## Facebook Messenger
+* [Facebook Messenger Generic Template](https://developers.facebook.com/docs/messenger-platform/send-messages/template/generic)
+* [Messenger Platform](https://developers.facebook.com/docs/messenger-platform)
+* 
