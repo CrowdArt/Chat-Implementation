@@ -8,7 +8,7 @@
 * [Dialogflow Console](https://console.dialogflow.com/api-client/#/agent/c4c953cc-2d6c-43d9-9fd2-d4d15253d093/intents)
 * [myTeachable](https://sso.teachable.com/secure/teachable_accounts/profile)
 * [Cassandra vs MongoDB](https://stackoverflow.com/questions/2892729/mongodb-vs-cassandra?rq=1)
-* 
+* [OpenWeatherMap API](https://openweathermap.org/api)
 
 ## Dialogflow
 * [Rich messages](https://dialogflow.com/docs/intents/rich-messages)
