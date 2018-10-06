@@ -14,6 +14,7 @@
 * [Cassandra vs MongoDB](https://stackoverflow.com/questions/2892729/mongodb-vs-cassandra?rq=1)
 * [OpenWeatherMap API](https://openweathermap.org/api)
 * [API.ai](https://www.npmjs.com/package/apiai)
+* [Travel APIs Providers](http://www.travelotas.com/worlds-leading-travel-apis-provider/)
 
 ## Chatbot Resources
 * [Bootpages](http://www.bootpages.com/)
