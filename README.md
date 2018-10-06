@@ -16,7 +16,7 @@
 * [API.ai](https://www.npmjs.com/package/apiai)
 * [Travel APIs Providers](http://www.travelotas.com/worlds-leading-travel-apis-provider/)
 * [What APIs are there for finding flights?](https://www.quora.com/What-APIs-are-there-for-finding-flights)
-* 
+* [Commission Junction](https://members.cj.com/member/publisher/home.do)
 
 ## Chatbot Resources
 * [Bootpages](http://www.bootpages.com/)
