@@ -7,11 +7,19 @@
 ## Google
 * [Actions on Google](https://console.actions.google.com/u/0/project/crowdart-8e66f/simulator/?pli=1)
 * [Google Cloud AI Products](https://console.actions.google.com/u/0/project/crowdart-8e66f/simulator/?pli=1)
+* [Google Maps Platform](https://cloud.google.com/maps-platform/)
 
 ## APIs
 * [myTeachable](https://sso.teachable.com/secure/teachable_accounts/profile)
 * [Cassandra vs MongoDB](https://stackoverflow.com/questions/2892729/mongodb-vs-cassandra?rq=1)
 * [OpenWeatherMap API](https://openweathermap.org/api)
+* [API.ai](https://www.npmjs.com/package/apiai)
+
+## Chatbot Resources
+* [Bootpages](http://www.bootpages.com/)
+* [Botlist](https://botlist.co/)
+* [Dashbot](https://botlist.co/)
+* [Entities Overview](https://botlist.co/)
 
 ## Dialogflow
 * [Rich messages](https://dialogflow.com/docs/intents/rich-messages)
