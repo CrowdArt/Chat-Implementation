@@ -36,6 +36,9 @@
 * [Button Template](https://app.sendgrid.com/settings/account)
 *  EAADnk6ZBTzAQBALZBN7TAfAqlw1WChZAjs86ZAgZBuZCpPcm3aQdxaw5wjXThuFRjaQzGmIjU7QAldii1B8ZCCG975RMhnXIRrgZAaRZBGRZAHCmLZAYdQoECvgTJQ1okrayZBhpJsqZCZCKsIryT8DAUKODnUYBeKmLnTPQ0yl3IzMWcJPAZDZD
 * [Webhook](https://developers.facebook.com/docs/messenger-platform/webhook)
+* Callback URL: https://chatbot-facebook1.herokuapp.com/webhook/
+* Verify Token: my_chatbot_password
+* Subscription fields: messages, messaging postbacks
 
 ## Heroku
 * [View Logs](https://devcenter.heroku.com/articles/logging#view-logs)
