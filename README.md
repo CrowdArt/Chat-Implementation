@@ -39,6 +39,7 @@
 * Callback URL: https://chatbot-facebook1.herokuapp.com/webhook/
 * Verify Token: my_chatbot_password
 * Subscription fields: messages, messaging postbacks
+* [Messenger Settings](https://developers.facebook.com/apps/254621491907588/messenger/settings/)
 
 ## Heroku
 * [View Logs](https://devcenter.heroku.com/articles/logging#view-logs)
