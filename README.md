@@ -17,6 +17,7 @@
 * [Travel APIs Providers](http://www.travelotas.com/worlds-leading-travel-apis-provider/)
 * [What APIs are there for finding flights?](https://www.quora.com/What-APIs-are-there-for-finding-flights)
 * [Commission Junction](https://members.cj.com/member/publisher/home.do)
+* [OpenWeather API](https://home.openweathermap.org/api_keys) - 8202bf8ac17a5affa77cb6942abb73a5
 
 ## Chatbot Resources
 * [Bootpages](http://www.bootpages.com/)
