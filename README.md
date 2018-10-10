@@ -44,9 +44,11 @@
 
 ## Heroku
 * [View Logs](https://devcenter.heroku.com/articles/logging#view-logs)
-*
 
 # Sendgrid
 * [Sendgrid App on Heroku](https://app.sendgrid.com/settings/account)
 * [SendGrid on Heroku Dev Center](https://devcenter.heroku.com/articles/sendgrid#node-js)
 * [v3 API Node.js Code Example](https://sendgrid.com/docs/for-developers/sending-email/v3-nodejs-code-example/)
+
+## RESTful
+* callback function is: (req, res) => {}
