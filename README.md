@@ -44,7 +44,8 @@
 
 ## Express
 Bulding webservices on top of Node.js.  
-
+* `export PORT=5000`
+* http://localhost:5000/api/post/2018/1?sortby=name
 ## Facebook Messenger
 * [Facebook Messenger Generic Template](https://developers.facebook.com/docs/messenger-platform/send-messages/template/generic)
 * [Messenger Platform](https://developers.facebook.com/docs/messenger-platform)
@@ -66,3 +67,4 @@ Bulding webservices on top of Node.js.
 
 ## RESTful
 * callback function is: (req, res) => {}
+* use `let` is you want to reset the variable later
