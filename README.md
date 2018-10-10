@@ -67,4 +67,4 @@ Bulding webservices on top of Node.js.
 
 ## RESTful
 * callback function is: (req, res) => {}
-* use `let` is you want to reset the variable later
+* use `let` identifier if you want to reset the variable later
