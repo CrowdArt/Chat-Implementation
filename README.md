@@ -1,7 +1,9 @@
 # Chat-Implementation
 ## Table of Contents  
 * [APIs](#apis)
-  * [Adobe Campaign Manager](#adobe-campaign-manager)
+* [Chatbot Resources](#chatbot-resources)
+* [Google](#google)
+* 
   
   
 
