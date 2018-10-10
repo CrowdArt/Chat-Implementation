@@ -1,6 +1,6 @@
 # Chat-Implementation
 ## Table of Contents  
-* [APIs](#apis--)
+* [APIs](#apis)
   * [Adobe Campaign Manager](#adobe-campaign-manager)
   
   
