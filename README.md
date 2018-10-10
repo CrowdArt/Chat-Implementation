@@ -7,6 +7,7 @@
     * [Dialogflow](#dialogflow)
 * [Heroku](#heroku)
 * [RESTful](#restful)
+* [Sendgrid](#sendgrid)
   
 ## Links
 * [Live Agent Developer Guide](https://resources.docs.salesforce.com/sfdc/pdf/live_agent_dev_guide.pdf)
