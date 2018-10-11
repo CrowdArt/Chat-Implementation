@@ -1,4 +1,6 @@
 # Chat-Implementation
+
+## ES6
 `use strict;` Defines that JavaScript code should be executed in "strict mode", a literal expression.  With strict mode, you can not, for example, use undeclared variables.
 - With object destructuring, when declaring a variable or constant use {} and add the property of the target object.
 
