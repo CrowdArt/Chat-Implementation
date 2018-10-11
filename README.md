@@ -69,3 +69,4 @@ Bulding webservices on top of Node.js.
 * callback function is: (req, res) => {}
 * use `let` identifier if you want to reset the variable later
 * `app.use(express.json);` - when we call `express.json` method, the method returns a piece of middleware, and then we call `app.use` to use the middleware in the request processing timeline.
+* When the server creates a new object and/or resource, it should write that in the body of the response
