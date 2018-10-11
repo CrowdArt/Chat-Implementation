@@ -1,4 +1,6 @@
 # Chat-Implementation
+`use strict;` Defines that JavaScript code should be executed in "strict mode", a literal expression.  With strict mode, you can not, for example, use undeclared variables.
+
 ## Table of Contents  
 * [APIs](#apis)
 * [Chatbot Resources](#chatbot-resources)
