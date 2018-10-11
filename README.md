@@ -6,6 +6,7 @@
 * [Google](#google)
     * [Dialogflow](#dialogflow)
 * [Heroku](#heroku)
+* [joi](#joi)
 * [RESTful](#restful)
 * [Sendgrid](#sendgrid)
   
@@ -60,7 +61,11 @@ Bulding webservices on top of Node.js.
 ## Heroku
 * [View Logs](https://devcenter.heroku.com/articles/logging#view-logs)
 
-# Sendgrid
+## joi
+joi allows you to create blueprints or schemas for JavaScript objects (an object that stores information) to ensure validation of key information.
+* [joi npm](https://www.npmjs.com/package/joi)
+
+## Sendgrid
 * [Sendgrid App on Heroku](https://app.sendgrid.com/settings/account)
 * [SendGrid on Heroku Dev Center](https://devcenter.heroku.com/articles/sendgrid#node-js)
 * [v3 API Node.js Code Example](https://sendgrid.com/docs/for-developers/sending-email/v3-nodejs-code-example/)
