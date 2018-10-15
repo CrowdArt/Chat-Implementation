@@ -1,4 +1,5 @@
-* Integration of data storage solutions (Postgres)
+### Integration of data storage solutions (Postgres)
+
 * building server-side applications in JavaScript, preferably ES6
 * Node.js and Express
 * implement asynchronous RESTful services
