@@ -42,7 +42,7 @@
 ## Asynchronous JavaScript
 There are three patterns to deal with asynchronous code:
 * Callbacks - a function to call when a result of an asynchronous operation is ready.
-* Promises
+* Promises - object that can hold results of an asynchronous operation.  It can be in 3 states: Pending, Fulfilled and Rejected.
 * Async/await
 
 ## Chatbot Resources
