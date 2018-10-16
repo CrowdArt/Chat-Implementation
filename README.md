@@ -6,6 +6,7 @@
 
 ## Table of Contents  
 * [APIs](#apis)
+* [Asynchronous JavaScript](#asynchronous-javascript)
 * [Chatbot Resources](#chatbot-resources)
 * [Express](#express)
 * [Google](#google)
@@ -37,6 +38,12 @@
 * [Commission Junction](https://members.cj.com/member/publisher/home.do)
 * [OpenWeather API](https://home.openweathermap.org/api_keys) - 8202bf8ac17a5affa77cb6942abb73a5
 * [APIs for flight fare search](https://www.quora.com/?activity_story=42881226)
+
+## Asynchronous JavaScript
+There are three patterns to deal with asynchronous code:
+* Callbacks
+* Promises
+* Async/await
 
 ## Chatbot Resources
 * [Bootpages](http://www.bootpages.com/)
