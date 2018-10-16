@@ -41,7 +41,7 @@
 
 ## Asynchronous JavaScript
 There are three patterns to deal with asynchronous code:
-* Callbacks
+* Callbacks - a function to call when a result of an asynchronous operation is ready.
 * Promises
 * Async/await
 
