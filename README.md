@@ -9,6 +9,8 @@
 * [Argument vs Parameter](#argument-vs-parameter)
 * [Asynchronous JavaScript](#asynchronous-javascript)
    * [Callbacks](#callbacks)
+   * [Promises](#promises)
+   * [Async Functions](#async-functions)
 * [Chatbot Resources](#chatbot-resources)
 * [Express](#express)
 * [Google](#google)
