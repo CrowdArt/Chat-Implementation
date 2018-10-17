@@ -54,6 +54,16 @@ If you have an async function that returns a callback, modify it to return a pro
 ```javascript
 setTimeout(() => console.log('Vuk'), 2000);
 ```
+```javascript
+import {bigOak} from "./crow-tech"
+
+bigOak.readStorage("food cache", cache = > {
+   let firstCache = cache[0];
+   bigOak.readStorage(firstCache, info => {
+      console.log(info);
+   });
+});
+```
 
 ## Argument vs Parameter
 * Parameter is a variable in a method definition.  When a method is called, the arguments are the data you pass into the method's parameters.  
