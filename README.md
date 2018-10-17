@@ -48,6 +48,8 @@ There are three patterns to deal with asynchronous code:
 * Promises - object that can hold results of an asynchronous operation.  It can be in 3 states: Pending, Fulfilled and Rejected.  Initially, it is an a pending state.  If the operation is completed successfully it is resolved or fulfilled.  If the state of the promise fails, it will go from pending to rejected. Every `promise` object has two method.
 If you have an async function that returns a callback, modify it to return a promise.
 * Async/await
+### Callbacks
+
 
 ## Argument vs Parameter
 * Parameter is a variable in a method definition.  When a method is called, the arguments are the data you pass into the method's parameters.  
