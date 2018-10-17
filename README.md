@@ -8,6 +8,7 @@
 * [APIs](#apis)
 * [Argument vs Parameter](#argument-vs-parameter)
 * [Asynchronous JavaScript](#asynchronous-javascript)
+   * [Callbacks](#callbacks)
 * [Chatbot Resources](#chatbot-resources)
 * [Express](#express)
 * [Google](#google)
