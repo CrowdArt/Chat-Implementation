@@ -6,6 +6,7 @@
 
 ## Table of Contents  
 * [APIs](#apis)
+* [Argument vs Parameter](#argument-vs-parameter)
 * [Asynchronous JavaScript](#asynchronous-javascript)
 * [Chatbot Resources](#chatbot-resources)
 * [Express](#express)
@@ -51,6 +52,10 @@ If you have an async function that returns a callback, modify it to return a pro
 * Parameter is a variable in the declaration of a function.  Argument is the actual value of this variable that gets passed to function.
 * A parameter is a variable defined by a method that receives a value when the method is called.
 * An argument is a value that is passed to a method when it is invoked.
+* parameters are the name within the function definition.
+* Arguments are the values passed in when the function is called.
+* Parameters don’t change when the program is running
+* Arguments are probably going to be different every time the function is called.
 
 ## Chatbot Resources
 * [Bootpages](http://www.bootpages.com/)
