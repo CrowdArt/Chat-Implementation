@@ -42,8 +42,15 @@
 ## Asynchronous JavaScript
 There are three patterns to deal with asynchronous code:
 * Callbacks - a function to call when a result of an asynchronous operation is ready.  
-* Promises - object that can hold results of an asynchronous operation.  It can be in 3 states: Pending, Fulfilled and Rejected.  Initially, it is an a pending state.
+* Promises - object that can hold results of an asynchronous operation.  It can be in 3 states: Pending, Fulfilled and Rejected.  Initially, it is an a pending state.  If the operation is completed successfully it is resolved or fulfilled.  If the state of the promise fails, it will go from pending to rejected.
+If you have an async function that returns a callback, modify it to return a promise.
 * Async/await
+
+## Argument vs Parameter
+* Parameter is a variable in a method definition.  When a method is called, the arguments are the data you pass into the method's parameters.  
+* Parameter is a variable in the declaration of a function.  Argument is the actual value of this variable that gets passed to function.
+* A parameter is a variable defined by a method that receives a value when the method is called.
+* An argument is a value that is passed to a method when it is invoked.
 
 ## Chatbot Resources
 * [Bootpages](http://www.bootpages.com/)
