@@ -70,8 +70,17 @@ bigOak.readStorage("food cache", cache = > {
 ```
 
 ### Promises
+It can be in 3 states: Pending, Fulfilled and Rejected.  Initially, it is an a pending state.  If the operation is completed successfully it is resolved or fulfilled.  If the state of the promise fails, it will go from pending to rejected. Every `promise` object has two method.
 
+If you have an async function that returns a callback, modify it to return a promise.
 
+A promise is an asynchronous action that may complete at some point and produce a value. It is able to notify anyone who is interested when its value is available.  To get the result of a promise, you can use its then method.   This registers a callback function to be called when the promise resolves and produces a value. You can add multiple callbacks to a single promise, and they will be called, even if you add them after the promise has already resolved (finished).  The main advantage of promises—they simplify the use of asynchronous functions. 
+
+The easiest way to create a promise is by calling `Promise.resolve`.  To get the result of a promise, you can use its `then` method. 
+```javascript
+let fifteen = Promise.resolve(15);
+fifteen.then(value => console.log( 'Got ${value} ')):
+```
 ## Argument vs Parameter
 * Parameter is a variable in a method definition.  When a method is called, the arguments are the data you pass into the method's parameters.  
 * Parameter is a variable in the declaration of a function.  Argument is the actual value of this variable that gets passed to function.
