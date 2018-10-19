@@ -106,6 +106,8 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 Bulding webservices on top of Node.js.  
 * `export PORT=5000`
 * http://localhost:5000/api/post/2018/1?sortby=name
+* `app.use(express.json)` - when we call `express.json` method, the method returns a piece of middleware and then we call the `app.use` to use the middleware in the request processing timeline.
+
 ## Facebook Messenger
 * [Facebook Messenger Generic Template](https://developers.facebook.com/docs/messenger-platform/send-messages/template/generic)
 * [Messenger Platform](https://developers.facebook.com/docs/messenger-platform)
