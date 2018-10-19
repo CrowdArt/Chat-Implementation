@@ -1,0 +1,50 @@
+curl -X POST -H "Content-Type: application/json" -d '{
+  "persistent_menu":[
+    {
+      "locale":"default",
+      "composer_input_disabled":false,
+      "call_to_actions":[
+        {
+          "title":"Contact",
+          "type":"nested",
+          "call_to_actions":[
+            {
+              "title":"View Website",
+              "type":"web_url",
+              "url":"http://www.myapple.com"
+            },
+            {
+              "title":"Apply for a job",
+              "type":"postback",
+              "payload":"JOB_APPLY"
+            }
+          ]
+        },
+		{
+          "title":"Newsletter",
+          "type":"nested",
+          "call_to_actions":[
+			{
+			  "type":"postback",
+			  "title":"Fun news",
+			  "payload":"FUN_NEWS"
+			},
+            {
+              "title":"Settings",
+              "type":"web_url",
+              "url":"https://yoururlgoeshere.herokuapp.com/webviews/webview",  
+			  "webview_height_ratio": "tall",
+  			  "messenger_extensions": true
+            }
+          ]
+        },
+
+        {
+          "type":"postback",
+          "title":"Start here",
+          "payload":"GET_STARTED"
+        }
+      ]
+    }
+  ]
+}' "https://graph.facebook.com/v2.6/me/messenger_profile?access_token="
