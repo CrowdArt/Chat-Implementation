@@ -3,6 +3,7 @@
 ## ES6
 `use strict;` Defines that JavaScript code should be executed in "strict mode", a literal expression.  With strict mode, you can not, for example, use undeclared variables.
 - With object destructuring, when declaring a variable or constant use {} and add the property of the target object.
+* Node.js - operates on a single thread event loop, using non-blocking I/O calls, allowing it to support tens of thousands of concurrent connections without incurring the cost of thread context switching.
 
 ## Table of Contents  
 * [APIs](#apis)
@@ -54,7 +55,8 @@ A promise is an asynchronous action that may complete at some point and produce 
 * Async/await
 
 ### Callbacks
-`setTimeout` function waits a given number of milliseconds and then calls a function"
+* Callbacks are used to signal completion of a task.  
+* `setTimeout` function waits a given number of milliseconds and then calls a function"
 ```javascript
 setTimeout(() => console.log('Vuk'), 2000);
 ```
@@ -68,9 +70,15 @@ bigOak.readStorage("food cache", cache = > {
    });
 });
 ```
+* `.then` - method registers a callback function to be called when the promise resolves and produces a value.  You can add multiple callbacks to a single promise, and they will be called, even if you add them after the promise has already resolved (finished).
+* `.then` - method returns another promise, which resolves to value that the handler function returns or, if that returns a promise, waits for that promise then resolves its result.
 
 ### Promises
 It can be in 3 states: Pending, Fulfilled and Rejected.  Initially, it is an a pending state.  If the operation is completed successfully it is resolved or fulfilled.  If the state of the promise fails, it will go from pending to rejected. Every `promise` object has two method.
+
+To create a promise, you can use Promise as a constructor.
+
+`constructor` - method for creating and initializing an object created within a class.
 
 If you have an async function that returns a callback, modify it to return a promise.
 
@@ -107,6 +115,7 @@ Bulding webservices on top of Node.js.
 * `export PORT=5000`
 * http://localhost:5000/api/post/2018/1?sortby=name
 * `app.use(express.json)` - when we call `express.json` method, the method returns a piece of middleware and then we call the `app.use` to use the middleware in the request processing timeline.
+* When the server creates a new object and/or resource it should write that in the body of the response.
 
 ## Facebook Messenger
 * [Facebook Messenger Generic Template](https://developers.facebook.com/docs/messenger-platform/send-messages/template/generic)
