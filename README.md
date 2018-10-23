@@ -56,7 +56,14 @@ A promise is an asynchronous action that may complete at some point and produce 
 * Async/await
 
 ## Authentication and Authorization
-
+1. Register: POST /api/users {name, email, password}
+```json
+email: {
+  type: String,
+  unique: true
+}
+```
+2. Login: POST /api/logins
 ### Callbacks
 * Callbacks are used to signal completion of a task.  
 * `setTimeout` function waits a given number of milliseconds and then calls a function"
