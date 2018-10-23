@@ -12,6 +12,7 @@
    * [Callbacks](#callbacks)
    * [Promises](#promises)
    * [Async Functions](#async-functions)
+* [Authentication and Authorization](#authentication-and-authorization)
 * [Chatbot Resources](#chatbot-resources)
 * [Express](#express)
 * [Google](#google)
@@ -53,6 +54,8 @@ There are three patterns to deal with asynchronous code:
 If you have an async function that returns a callback, modify it to return a promise.
 A promise is an asynchronous action that may complete at some point and produce a value. It is able to notify anyone who is interested when its value is available.  To get the result of a promise, you can use its then method.   This registers a callback function to be called when the promise resolves and produces a value. You can add multiple callbacks to a single promise, and they will be called, even if you add them after the promise has already resolved (finished).  The main advantage of promises—they simplify the use of asynchronous functions. 
 * Async/await
+
+## Authentication and Authorization
 
 ### Callbacks
 * Callbacks are used to signal completion of a task.  
