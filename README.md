@@ -19,6 +19,8 @@
     * [Dialogflow](#dialogflow)
 * [Heroku](#heroku)
 * [joi](#joi)
+* [NPM Packages](#npm-packages)
+  * [joi-password-complexity](#joi-password-complexity)
 * [RESTful](#restful)
 * [Sendgrid](#sendgrid)
   
@@ -144,6 +146,11 @@ Bulding webservices on top of Node.js.
 ## joi
 joi allows you to create blueprints or schemas for JavaScript objects (an object that stores information) to ensure validation of key information.
 * [joi npm](https://www.npmjs.com/package/joi)
+
+## NPM Packages
+
+### joi-password-complexity
+* [joi-password-complexity](https://www.npmjs.com/package/joi-password-complexity)
 
 ## Sendgrid
 * [Sendgrid App on Heroku](https://app.sendgrid.com/settings/account)
