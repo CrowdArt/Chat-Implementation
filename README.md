@@ -117,6 +117,16 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 * [Botlist](https://botlist.co/)
 * [Dashbot](https://botlist.co/)
 * [Entities Overview](https://botlist.co/)
+* [Chatbot Comparison – Facebook, Microsoft, Amazon, and Google](https://www.techemergence.com/chatbot-comparison-facebook-microsoft-amazon-google/)
+### Chatbot Technology Stack
+* Dialogflow
+    * Dialogflow is a natural language processor used to understand what our visitors want from the bot.  Components to use: agents, intents, parameters, prebuilt agents, 
+* React
+* NodeJS
+* mongoDB
+* ExpressJS
+* git
+* Heroku
 
 ## Dialogflow
 * [Rich messages](https://dialogflow.com/docs/intents/rich-messages)
