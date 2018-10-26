@@ -14,6 +14,7 @@
    * [Async Functions](#async-functions)
 * [Authentication and Authorization](#authentication-and-authorization)
 * [Chatbot Resources](#chatbot-resources)
+    * [Chatbot Technology Stack](#chatbot-technology-stack)
 * [Express](#express)
 * [Google](#google)
     * [Dialogflow](#dialogflow)
