@@ -52,6 +52,8 @@
 Waiting for actions to finish is implicit in the synchronous model, while it is explicit, under our control, in the asynchronous one.
 
 * [Eloquent Javascript](https://eloquentjavascript.net/11_async.html)
+* [Writing neat asynchronous Node JS code with Promises & Async/Await](https://medium.com/@tkssharma/writing-neat-asynchronous-node-js-code-with-promises-async-await-fa8d8b0bcd7c)
+
 
 There are three patterns to deal with asynchronous code:
 * [Callbacks](#callbacks) - a function to call when a result of an asynchronous operation is ready.  
