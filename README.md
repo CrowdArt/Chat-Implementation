@@ -119,15 +119,21 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 * [Dashbot](https://botlist.co/)
 * [Entities Overview](https://botlist.co/)
 * [Chatbot Comparison – Facebook, Microsoft, Amazon, and Google](https://www.techemergence.com/chatbot-comparison-facebook-microsoft-amazon-google/)
+
 ### Chatbot Technology Stack
 * Dialogflow
-    * Dialogflow is a natural language processor used to understand what our visitors want from the bot.  Components to use: agents, intents, parameters, prebuilt agents, 
+    * Dialogflow is a natural language processor used to understand what our visitors want from the bot.  Components to use: agents, intents, parameters, prebuilt agents, flot feeling, etc.
 * React
 * NodeJS
 * mongoDB
 * ExpressJS
 * git
 * Heroku
+* Nodemon - local development server
+##
+* rich messages like cards and quick replies. 
+* setup React, configure local servers, create a proxy for communicating with backend. 
+* [Slotfilling](https://nlp.stanford.edu/projects/kbp/) - the task is to complete all known information about a given query entity.  
 
 ## Dialogflow
 * [Rich messages](https://dialogflow.com/docs/intents/rich-messages)
