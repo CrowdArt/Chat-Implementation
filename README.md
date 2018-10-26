@@ -122,7 +122,7 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 
 ### Chatbot Technology Stack
 * Dialogflow
-    * Dialogflow is a natural language processor used to understand what our visitors want from the bot.  Components to use: agents, intents, parameters, prebuilt agents, flot feeling, etc.
+    * Dialogflow is a natural language processor used to understand what our visitors want from the bot.  Components to use: agents, intents, parameters, prebuilt agents, slotfilling, etc.
 * React
 * NodeJS
 * mongoDB
@@ -134,6 +134,7 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 * rich messages like cards and quick replies. 
 * setup React, configure local servers, create a proxy for communicating with backend. 
 * [Slotfilling](https://nlp.stanford.edu/projects/kbp/) - the task is to complete all known information about a given query entity.  
+* [Entity Linking](https://nlp.stanford.edu/projects/kbp/) - Spanning multiple documents and linking mentions to concrete entities (when possible), rather than simply clustering them.
 
 ## Dialogflow
 * [Rich messages](https://dialogflow.com/docs/intents/rich-messages)
