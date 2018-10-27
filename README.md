@@ -1,10 +1,4 @@
 # Chat-Implementation
-
-## ES6
-`use strict;` Defines that JavaScript code should be executed in "strict mode", a literal expression.  With strict mode, you can not, for example, use undeclared variables.
-- With object destructuring, when declaring a variable or constant use {} and add the property of the target object.
-* Node.js - operates on a single thread event loop, using non-blocking I/O calls, allowing it to support tens of thousands of concurrent connections without incurring the cost of thread context switching.
-
 ## Table of Contents  
 * [APIs](#apis)
 * [Argument vs Parameter](#argument-vs-parameter)
@@ -15,6 +9,7 @@
 * [Authentication and Authorization](#authentication-and-authorization)
 * [Chatbot Resources](#chatbot-resources)
     * [Chatbot Technology Stack](#chatbot-technology-stack)
+* [ES6](#es6)
 * [Express](#express)
 * [Google](#google)
     * [Dialogflow](#dialogflow)
@@ -143,6 +138,11 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 ## Dialogflow
 * [Rich messages](https://dialogflow.com/docs/intents/rich-messages)
 * [Dialogflow Console](https://console.dialogflow.com/api-client/#/agent/c4c953cc-2d6c-43d9-9fd2-d4d15253d093/intents)
+
+## ES6
+`use strict;` Defines that JavaScript code should be executed in "strict mode", a literal expression.  With strict mode, you can not, for example, use undeclared variables.
+- With object destructuring, when declaring a variable or constant use {} and add the property of the target object.
+* Node.js - operates on a single thread event loop, using non-blocking I/O calls, allowing it to support tens of thousands of concurrent connections without incurring the cost of thread context switching.
 
 ## Express
 Bulding webservices on top of Node.js.  
