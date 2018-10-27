@@ -123,7 +123,7 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 * [Dashbot](https://botlist.co/)
 * [Entities Overview](https://botlist.co/)
 * [Chatbot Comparison – Facebook, Microsoft, Amazon, and Google](https://www.techemergence.com/chatbot-comparison-facebook-microsoft-amazon-google/)
-
+* [OpenWeatherMap](https://openweathermap.org/current)
 ### Chatbot Technology Stack
 * Dialogflow
     * Dialogflow is a natural language processor used to understand what our visitors want from the bot.  Components to use: agents, intents, parameters, prebuilt agents, slotfilling, etc.
@@ -168,6 +168,10 @@ Bulding webservices on top of Node.js.
 ## joi
 joi allows you to create blueprints or schemas for JavaScript objects (an object that stores information) to ensure validation of key information.
 * [joi npm](https://www.npmjs.com/package/joi)
+
+## Node.js
+* [Node.js Request Module Tutorial](https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/)
+* 
 
 ## NPM Packages
 
