@@ -28,7 +28,7 @@
 * [Web Services Architecture](https://www.w3.org/TR/ws-arch/#introduction)
 * [Swagger Editor Github](https://github.com/swagger-api/swagger-editor)
 * [Configure your Node.js Applications](https://www.npmjs.com/package/config)
-### Chat App
+### Chat Apps
 * [98point6](https://www.98point6.com/)
 ## Google
 * [Actions on Google](https://console.actions.google.com/u/0/project/crowdart-8e66f/simulator/?pli=1)
