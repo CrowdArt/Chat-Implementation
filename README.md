@@ -20,6 +20,7 @@
 * [mongoDB](#mongodb)
 * [NPM Packages](#npm-packages)
   * [joi-password-complexity](#joi-password-complexity)
+* [PostgreSQL](#postgresql)
 * [RESTful](#restful)
 * [Sendgrid](#sendgrid)
   
