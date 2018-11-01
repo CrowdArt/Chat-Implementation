@@ -30,6 +30,7 @@
 * [Web Services Architecture](https://www.w3.org/TR/ws-arch/#introduction)
 * [Swagger Editor Github](https://github.com/swagger-api/swagger-editor)
 * [Configure your Node.js Applications](https://www.npmjs.com/package/config)
+* [Chatbot Tech Stack](https://chatbotsmagazine.com/the-ultimate-guide-to-designing-a-chatbot-tech-stack-333eceb431da)
 ### Chat Apps
 * [98point6](https://www.98point6.com/)
 ## Google
