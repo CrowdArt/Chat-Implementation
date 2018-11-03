@@ -113,6 +113,7 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 * [Entities Overview](https://botlist.co/)
 * [Chatbot Comparison – Facebook, Microsoft, Amazon, and Google](https://www.techemergence.com/chatbot-comparison-facebook-microsoft-amazon-google/)
 * [OpenWeatherMap](https://openweathermap.org/current)
+
 ### Chatbot Technology Stack
 * Dialogflow
     * Dialogflow is a natural language processor used to understand what our visitors want from the bot.  Components to use: agents, intents, parameters, prebuilt agents, slotfilling, etc.
@@ -130,6 +131,7 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 * [Entity Linking](https://nlp.stanford.edu/projects/kbp/) - Spanning multiple documents and linking mentions to concrete entities (when possible), rather than simply clustering them.
 
 ## Dialogflow
+* `export GOOGLE_APPLICATION_CREDENTIALS=/path-to-keys/key-file.json`
 * [Dialogflow: Node.js Client](https://github.com/CrowdArt/nodejs-dialogflow)
 * [Rich messages](https://dialogflow.com/docs/intents/rich-messages)
 * [Dialogflow Console](https://console.dialogflow.com/api-client/#/agent/c4c953cc-2d6c-43d9-9fd2-d4d15253d093/intents)
