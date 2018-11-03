@@ -132,6 +132,7 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 
 ## Dialogflow
 * `export GOOGLE_APPLICATION_CREDENTIALS=/path-to-keys/key-file.json`
+* `export GOOGLE_APPLICATION_CREDENTIALS=/Users/vukdukic/Apps/Chatbot/crowdart-8e66f-0062b215343e.json`
 * [Dialogflow: Node.js Client](https://github.com/CrowdArt/nodejs-dialogflow)
 * [Rich messages](https://dialogflow.com/docs/intents/rich-messages)
 * [Dialogflow Console](https://console.dialogflow.com/api-client/#/agent/c4c953cc-2d6c-43d9-9fd2-d4d15253d093/intents)
