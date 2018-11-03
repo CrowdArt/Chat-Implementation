@@ -42,7 +42,7 @@ Waiting for actions to finish is implicit in the synchronous model, while it is 
 
 * [Eloquent Javascript](https://eloquentjavascript.net/11_async.html)
 * [Writing neat asynchronous Node JS code with Promises & Async/Await](https://medium.com/@tkssharma/writing-neat-asynchronous-node-js-code-with-promises-async-await-fa8d8b0bcd7c)
-
+* [Async/await](https://javascript.info/async-await)
 
 There are three patterns to deal with asynchronous code:
 * [Callbacks](#callbacks) - a function to call when a result of an asynchronous operation is ready.  
@@ -132,6 +132,7 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 
 ## Dialogflow
 * `export GOOGLE_APPLICATION_CREDENTIALS=/path-to-keys/key-file.json`
+Every time you restart the computer run this command to set up the environment variable.  It you see the authentication error it is because the environment variable is reset.
 * `export GOOGLE_APPLICATION_CREDENTIALS=/Users/vukdukic/Apps/Chatbot/crowdart-8e66f-0062b215343e.json`
 * [Dialogflow: Node.js Client](https://github.com/CrowdArt/nodejs-dialogflow)
 * [Rich messages](https://dialogflow.com/docs/intents/rich-messages)
