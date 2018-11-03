@@ -130,8 +130,14 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 * [Entity Linking](https://nlp.stanford.edu/projects/kbp/) - Spanning multiple documents and linking mentions to concrete entities (when possible), rather than simply clustering them.
 
 ## Dialogflow
+* [Dialogflow: Node.js Client](https://github.com/CrowdArt/nodejs-dialogflow)
 * [Rich messages](https://dialogflow.com/docs/intents/rich-messages)
 * [Dialogflow Console](https://console.dialogflow.com/api-client/#/agent/c4c953cc-2d6c-43d9-9fd2-d4d15253d093/intents)
+* [Create fulfillment using webhook](https://dialogflow.com/docs/tutorial-build-an-agent/create-fulfillment-using-webhook#create_a_new_calendar_and_configure_the_code_in_the_webhook)
+* [Setting up authentication](https://dialogflow.com/docs/reference/v2-auth-setup)
+* [System Entities](https://dialogflow.com/docs/reference/system-entities)
+* [Make your agent multilingual](https://dialogflow.com/docs/agents/multilingual)
+* [Google Project FAQ](https://dialogflow.com/docs/concepts/google-projects-faq)
 
 ## ES6
 `use strict;` Defines that JavaScript code should be executed in "strict mode", a literal expression.  With strict mode, you can not, for example, use undeclared variables.
@@ -155,11 +161,15 @@ Bulding webservices on top of Node.js.
 * Verify Token: my_chatbot_password
 * Subscription fields: messages, messaging postbacks
 * [Messenger Settings](https://developers.facebook.com/apps/254621491907588/messenger/settings/)
+* [chatbot-facebook-v2-final](https://github.com/jbergant/chatbot-facebook-v2-final)
 
 ## Google
 * [Actions on Google](https://console.actions.google.com/u/0/project/crowdart-8e66f/simulator/?pli=1)
 * [Google Cloud AI Products](https://console.actions.google.com/u/0/project/crowdart-8e66f/simulator/?pli=1)
 * [Google Maps Platform](https://cloud.google.com/maps-platform/)
+* [Setting Up Authentication for Server to Server Production Applications](https://cloud.google.com/docs/authentication/production)
+* [Service Accounts](https://cloud.google.com/iam/docs/service-accounts)
+* [Understanding Service Accounts](https://cloud.google.com/iam/docs/understanding-service-accounts)
 
 ## Heroku
 * [View Logs](https://devcenter.heroku.com/articles/logging#view-logs)
@@ -183,9 +193,10 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 
 ## Node.js
 * [Node.js Request Module Tutorial](https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/)
+* [An Update on ES6 Modules in Node.js](https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42c958b890c)
 
 ## NPM Packages
-
+* [nodemon](https://www.npmjs.com/package/nodemon)
 ### joi-password-complexity
 * [joi-password-complexity](https://www.npmjs.com/package/joi-password-complexity)
 
