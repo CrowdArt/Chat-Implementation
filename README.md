@@ -9,6 +9,7 @@
 * [Authentication and Authorization](#authentication-and-authorization)
 * [Chatbot Resources](#chatbot-resources)
     * [Chatbot Technology Stack](#chatbot-technology-stack)
+* [Dialogflow](#dialogflow)
 * [ES6](#es6)
 * [Express](#express)
 * [Google](#google)
@@ -23,20 +24,7 @@
 * [PostgreSQL](#postgresql)
 * [RESTful](#restful)
 * [Sendgrid](#sendgrid)
-  
-## Links
-* [Live Agent Developer Guide](https://resources.docs.salesforce.com/sfdc/pdf/live_agent_dev_guide.pdf)
-* [How Are Apps Authenticated with the Web Server OAuth Authentication Flow?](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_web_server_oauth_flow.htm)
-* [Web Services Architecture](https://www.w3.org/TR/ws-arch/#introduction)
-* [Swagger Editor Github](https://github.com/swagger-api/swagger-editor)
-* [Configure your Node.js Applications](https://www.npmjs.com/package/config)
-* [Chatbot Tech Stack](https://chatbotsmagazine.com/the-ultimate-guide-to-designing-a-chatbot-tech-stack-333eceb431da)
-### Chat Apps
-* [98point6](https://www.98point6.com/)
-## Google
-* [Actions on Google](https://console.actions.google.com/u/0/project/crowdart-8e66f/simulator/?pli=1)
-* [Google Cloud AI Products](https://console.actions.google.com/u/0/project/crowdart-8e66f/simulator/?pli=1)
-* [Google Maps Platform](https://cloud.google.com/maps-platform/)
+ 
 
 ## APIs
 * [myTeachable](https://sso.teachable.com/secure/teachable_accounts/profile)
@@ -168,12 +156,27 @@ Bulding webservices on top of Node.js.
 * Subscription fields: messages, messaging postbacks
 * [Messenger Settings](https://developers.facebook.com/apps/254621491907588/messenger/settings/)
 
+## Google
+* [Actions on Google](https://console.actions.google.com/u/0/project/crowdart-8e66f/simulator/?pli=1)
+* [Google Cloud AI Products](https://console.actions.google.com/u/0/project/crowdart-8e66f/simulator/?pli=1)
+* [Google Maps Platform](https://cloud.google.com/maps-platform/)
+
 ## Heroku
 * [View Logs](https://devcenter.heroku.com/articles/logging#view-logs)
 
 ## joi
 joi allows you to create blueprints or schemas for JavaScript objects (an object that stores information) to ensure validation of key information.
 * [joi npm](https://www.npmjs.com/package/joi)
+
+## Links
+* [Live Agent Developer Guide](https://resources.docs.salesforce.com/sfdc/pdf/live_agent_dev_guide.pdf)
+* [How Are Apps Authenticated with the Web Server OAuth Authentication Flow?](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_web_server_oauth_flow.htm)
+* [Web Services Architecture](https://www.w3.org/TR/ws-arch/#introduction)
+* [Swagger Editor Github](https://github.com/swagger-api/swagger-editor)
+* [Configure your Node.js Applications](https://www.npmjs.com/package/config)
+* [Chatbot Tech Stack](https://chatbotsmagazine.com/the-ultimate-guide-to-designing-a-chatbot-tech-stack-333eceb431da)
+### Chat Apps
+* [98point6](https://www.98point6.com/)
 
 ## mongoDB
 * [mongoDB Atlas](https://cloud.mongodb.com/v2/5ba07910c0c6e3623d88789f#clusters)
