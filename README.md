@@ -65,6 +65,11 @@ function storage(nest, name) {
 storage(bigOak, "enemies")
   .then(value => console.log('Got', value));
 ```
+Main advantage of Promises is that they simplify use of callback functions.
+
+Instead of having to pass around callbacks, promise-based functions look similar to regular ones: they take input as arguments and return their outputs.
+
+Async code is used to load data into tables, make requests to the server, load DOM elements on priority, write non-blocking code on Node.
 
 There are three patterns to deal with asynchronous code:
 * [Callbacks](#callbacks) - a function to call when a result of an asynchronous operation is ready.  Callbacks are used to signal completion of a task.
