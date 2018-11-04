@@ -74,7 +74,10 @@ Async code is used to load data into tables, make requests to the server, load D
 ### Creating a Promise
 We create a promise in our Node.js program using the 'new' constructor.
 
-`var myPromise = new Promise (function(resolve, reject)){}`
+* `var myPromise = new Promise (function(resolve, reject)){}`
+* `let` - allows you to declare variables that are limited in scope to the block, statement, or expression on which it is used.  `let` bindings are created at the top of the (block) scope containing the declaration => this is `hoisting`.
+* `var` keyword - defines a variable globally, or locally to entire function regardless of block scope.
+
 
 There are three patterns to deal with asynchronous code:
 * [Callbacks](#callbacks) - a function to call when a result of an asynchronous operation is ready.  Callbacks are used to signal completion of a task.
@@ -237,6 +240,7 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 * [nodemon](https://www.npmjs.com/package/nodemon)
 ### joi-password-complexity
 * [joi-password-complexity](https://www.npmjs.com/package/joi-password-complexity)
+* `request` - npm package removes the boilerplate code of inbuilt http package.
 
 ## Object Oriented Programming
 Four pillars of object oriented programming:
