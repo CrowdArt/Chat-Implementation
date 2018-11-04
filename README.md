@@ -71,6 +71,11 @@ Instead of having to pass around callbacks, promise-based functions look similar
 
 Async code is used to load data into tables, make requests to the server, load DOM elements on priority, write non-blocking code on Node.
 
+### Creating a Promise
+We create a promise in our Node.js program using the 'new' constructor.
+
+`var myPromise = new Promise (function(resolve, reject)){}`
+
 There are three patterns to deal with asynchronous code:
 * [Callbacks](#callbacks) - a function to call when a result of an asynchronous operation is ready.  Callbacks are used to signal completion of a task.
 * Promises - object that can hold results of an asynchronous operation.  It can be in 3 states: Pending, Fulfilled and Rejected.  Initially, it is an a pending state.  If the operation is completed successfully it is resolved or fulfilled.  If the state of the promise fails, it will go from pending to rejected. Every `promise` object has two method.
