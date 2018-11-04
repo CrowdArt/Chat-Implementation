@@ -50,6 +50,8 @@ var myArray = new Array()=function() {
 * [Eloquent Javascript](https://eloquentjavascript.net/11_async.html)
 * [Writing neat asynchronous Node JS code with Promises & Async/Await](https://medium.com/@tkssharma/writing-neat-asynchronous-node-js-code-with-promises-async-await-fa8d8b0bcd7c)
 * [Async/await](https://javascript.info/async-await)
+* `.then` method - registers a callback function to be called when the promise resolves and produces a value.  You can add multiple callbacks to a single promise, and they will be called, even if you add them after the promise has already resolved (finished).
+
 
 There are three patterns to deal with asynchronous code:
 * [Callbacks](#callbacks) - a function to call when a result of an asynchronous operation is ready.  Callbacks are used to signal completion of a task.
