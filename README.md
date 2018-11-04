@@ -21,6 +21,7 @@
 * [mongoDB](#mongodb)
 * [NPM Packages](#npm-packages)
   * [joi-password-complexity](#joi-password-complexity)
+* [Object Oriented Programming](#object-oriented-programming)
 * [PostgreSQL](#postgresql)
 * [RESTful](#restful)
 * [Sendgrid](#sendgrid)
@@ -210,6 +211,13 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 * [nodemon](https://www.npmjs.com/package/nodemon)
 ### joi-password-complexity
 * [joi-password-complexity](https://www.npmjs.com/package/joi-password-complexity)
+
+## Object Oriented Programming
+Four pillars of object oriented programming:
+1. Encapsulation - isolate impact of changes (reduce complexity)
+2. Abstraction - isolate impact of changes
+3. Inheritance - eliminate redundant code
+4. Polymorphism - refactor switch/case statements
 
 ## PostgreSQL
 * [pgAdmin 4](http://127.0.0.1:56621/browser/)
