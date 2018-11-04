@@ -39,7 +39,13 @@
 
 ## Asynchronous JavaScript
 Waiting for actions to finish is implicit in the synchronous model, while it is explicit, under our control, in the asynchronous one.
-
+* `var myArray = new Array();`
+* `document.getElementById("id").onClick` - onClick property returns the click event handler code on the current element
+```javascript
+var myArray = new Array()=function() {
+  document.getElementById('first dev').innerHTML = myArray[1];
+}
+```
 * [Eloquent Javascript](https://eloquentjavascript.net/11_async.html)
 * [Writing neat asynchronous Node JS code with Promises & Async/Await](https://medium.com/@tkssharma/writing-neat-asynchronous-node-js-code-with-promises-async-await-fa8d8b0bcd7c)
 * [Async/await](https://javascript.info/async-await)
