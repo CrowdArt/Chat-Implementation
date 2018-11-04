@@ -52,7 +52,7 @@ var myArray = new Array()=function() {
 * [Async/await](https://javascript.info/async-await)
 
 There are three patterns to deal with asynchronous code:
-* [Callbacks](#callbacks) - a function to call when a result of an asynchronous operation is ready.  
+* [Callbacks](#callbacks) - a function to call when a result of an asynchronous operation is ready.  Callbacks are used to signal completion of a task.
 * Promises - object that can hold results of an asynchronous operation.  It can be in 3 states: Pending, Fulfilled and Rejected.  Initially, it is an a pending state.  If the operation is completed successfully it is resolved or fulfilled.  If the state of the promise fails, it will go from pending to rejected. Every `promise` object has two method.
 If you have an async function that returns a callback, modify it to return a promise.
 A promise is an asynchronous action that may complete at some point and produce a value. It is able to notify anyone who is interested when its value is available.  To get the result of a promise, you can use its then method.   This registers a callback function to be called when the promise resolves and produces a value. You can add multiple callbacks to a single promise, and they will be called, even if you add them after the promise has already resolved (finished).  The main advantage of promises—they simplify the use of asynchronous functions. 
@@ -206,6 +206,7 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 ## Node.js
 * [Node.js Request Module Tutorial](https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/)
 * [An Update on ES6 Modules in Node.js](https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42c958b890c)
+* Node.js operatates on a single thread event loop, using non-blocking I/O calls, allowing it to support tens of thousand concurrent connections without incurring the cost of thread context switching.
 
 ## NPM Packages
 * [nodemon](https://www.npmjs.com/package/nodemon)
