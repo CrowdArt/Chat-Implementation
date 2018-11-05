@@ -1,0 +1,11 @@
+curl -X POST -H "Content-Type: application/json" -d '{
+  "greeting":[
+  {
+    "locale":"default",
+    "text":"Hi, SmartBabe at your service!"
+  }, {
+    "locale":"en_US",
+    "text":"Hi, SmartBabe at your service!"
+  }
+]
+}' "https://graph.facebook.com/v2.6/me/messenger_profile?access_token=EAADnk6ZBTzAQBAAId1n2Fak3ysNWoiRKATfIS7fWNkSfCZBqnwZAQq1MEDbprZBbaeX26CeDKQXzk2ZB1wPKLKe7eFpQkhZCCqaZBbWSA0cZCkoXDDcjDKOWi9CMsNDSxtdIZBEehixIP4MYaf3DUDnJz66r2f5s9dKjILuZBqSOaHPQZDZD"
