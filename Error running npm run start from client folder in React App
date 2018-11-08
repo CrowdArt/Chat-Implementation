@@ -22,3 +22,11 @@ If this has not helped, there are a few other things you can try:
 
 If nothing else helps, add SKIP_PREFLIGHT_CHECK=true to an .env file in your project.
 That would permanently disable this preflight check in case you want to proceed anyway.
+#
+did you install react with npx create-react-app?
+
+do you have the latest npm installed? And with yarn it was no difference?
+
+What about the SKIP_PREFLIGHT_CHECK=true setting? Did not work?
+
+Looks like a problem with eslint. Looks similar to this: https://github.com/facebook/create-react-app/issues/2157 I would try to disable eslint.
