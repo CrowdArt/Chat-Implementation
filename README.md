@@ -241,6 +241,7 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 ### joi-password-complexity
 * [joi-password-complexity](https://www.npmjs.com/package/joi-password-complexity)
 * `request` - npm package removes the boilerplate code of inbuilt http package.
+* `npm install concurrently --save-dev` - Run multiple commands concurrently.
 
 ## Object Oriented Programming
 Four pillars of object oriented programming:
