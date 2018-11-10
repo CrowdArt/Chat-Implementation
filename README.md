@@ -267,7 +267,10 @@ Four pillars of object oriented programming:
 * extra methods
 #### Redux
 When you have some piece of application state that needs to be mapped to multiple components
-
+#### Default Components
+https://reactpatterns.com/
+#### Named Components
+https://reactpatterns.com/
 ## RESTful
 * callback function is: (req, res) => {}
 * use `let` identifier if you want to reset the variable later
