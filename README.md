@@ -259,6 +259,14 @@ Four pillars of object oriented programming:
 
 ## React
 * npm install --save react-router-dom
+#### Functional Components
+* javascript functions
+#### Class Components
+* states
+* lifecycle hooks (componentWillMount, componentDidMount)
+* extra methods
+#### Redux
+When you have some piece of application state that needs to be mapped to multiple components
 
 ## RESTful
 * callback function is: (req, res) => {}
