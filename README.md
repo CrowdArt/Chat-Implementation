@@ -269,6 +269,7 @@ Four pillars of object oriented programming:
 When you have some piece of application state that needs to be mapped to multiple components
 #### Default Components
 https://reactpatterns.com/
+* [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 #### Named Components
 https://reactpatterns.com/
 ## RESTful
