@@ -238,6 +238,9 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 
 ## NPM Packages
 * [nodemon](https://www.npmjs.com/package/nodemon)
+* [Concurrently]
+* [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+
 ### joi-password-complexity
 * [joi-password-complexity](https://www.npmjs.com/package/joi-password-complexity)
 * `request` - npm package removes the boilerplate code of inbuilt http package.
