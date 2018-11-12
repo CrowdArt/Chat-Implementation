@@ -287,6 +287,12 @@ https://reactpatterns.com/
 3. Send this id to API endpoint in backend app
 4. Construct a session from global session and unique id
 5. Make a call to Dialogflow with new session
+#### Cards
+* header
+* image
+* description
+* link 
+* price
 ## RESTful
 * callback function is: (req, res) => {}
 * use `let` identifier if you want to reset the variable later
