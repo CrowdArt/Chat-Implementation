@@ -7,6 +7,7 @@
    * [Promises](#promises)
    * [Async Functions](#async-functions)
 * [Authentication and Authorization](#authentication-and-authorization)
+* [Banking APIs](#banking-apis)
 * [Chatbot Resources](#chatbot-resources)
     * [Chatbot Technology Stack](#chatbot-technology-stack)
 * [Dialogflow](#dialogflow)
