@@ -260,6 +260,10 @@ Four pillars of object oriented programming:
 
 ## React
 * npm install --save react-router-dom
+* [HTML DOM scrollIntoView Method](https://www.w3schools.com/jsref/met_element_scrollintoview.asp)
+* [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
+* [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html?no-cache=1)
+* [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 #### Functional Components
 * javascript functions
 #### Class Components
