@@ -144,7 +144,10 @@ fifteen.then(value => console.log( 'Got ${value} ')):
 * Arguments are probably going to be different every time the function is called.
 
 ## Banking APIs
-* [API Setup Form](https://developer-static-prodb.bankofamerica.com/CPODevPortal/apidocs/public/resources/API%20Setup%20Form.pdf)
+* [BofA API Setup Form](https://developer-static-prodb.bankofamerica.com/CPODevPortal/apidocs/public/resources/API%20Setup%20Form.pdf)
+* [BofA API Developer Portal](https://developer.bankofamerica.com/CPODevPortal/apidocs/public/APIDevPortal.html#/home)
+* [Amex for Developers](https://developer.americanexpress.com/products)
+* 
 
 ## Chatbot Resources
 * [Bootpages](http://www.bootpages.com/)
