@@ -242,7 +242,8 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 * [Concurrently]
 * [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
 * npm install axios --save
-* [uuid](https://www.npmjs.com/package/uuid)
+* [uuid](https://www.npmjs.com/package/uuid) - npm i uuid --save
+* `npm i universal-cookie --save`
 
 ### joi-password-complexity
 * [joi-password-complexity](https://www.npmjs.com/package/joi-password-complexity)
@@ -280,6 +281,12 @@ https://reactpatterns.com/
 * [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 #### Named Components
 https://reactpatterns.com/
+#### Unique sessions for visitors
+1. Generate `unique id` in React frontend
+2. Set the id to cookie
+3. Send this id to API endpoint in backend app
+4. Construct a session from global session and unique id
+5. Make a call to Dialogflow with new session
 ## RESTful
 * callback function is: (req, res) => {}
 * use `let` identifier if you want to reset the variable later
