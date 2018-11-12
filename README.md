@@ -264,6 +264,8 @@ Four pillars of object oriented programming:
 * [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
 * [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html?no-cache=1)
 * [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+* `componentDidUpdate` - method is called after the component is re-rendered.
+* With Refs- to access DOM nodes of React elements created when rendering components.
 #### Functional Components
 * javascript functions
 #### Class Components
