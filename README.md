@@ -242,6 +242,7 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 * [Concurrently]
 * [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
 * npm install axios --save
+* [uuid](https://www.npmjs.com/package/uuid)
 
 ### joi-password-complexity
 * [joi-password-complexity](https://www.npmjs.com/package/joi-password-complexity)
