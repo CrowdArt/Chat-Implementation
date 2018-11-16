@@ -1,0 +1,152 @@
+{
+  "responseId": "f3d3f6b3-8041-46c5-8e11-4232dba07583",
+  "queryResult": {
+    "queryText": "vukdukic@gmail.com",
+    "action": "venueseating_outsearch.venueseating_outsearch-yes",
+    "parameters": {
+      "phone": "4156359877",
+      "name": "Vuk",
+      "email": "vukdukic@gmail.com",
+      "address": "1756 Carmel Drive, Walnut Creek, CA 94596"
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "Thanks you, Vuk, I will contact you in a few minutes.",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "Thanks you, Vuk, I will contact you in a few minutes."
+          ]
+        }
+      }
+    ],
+    "outputContexts": [
+      {
+        "name": "projects/crowdartbot/agent/sessions/43d40f3e-7916-a142-9a06-f5a6d6fe4f10/contexts/venueseating_outsearch-followup",
+        "lifespanCount": 1,
+        "parameters": {
+          "stars": "",
+          "location.original": "",
+          "open.original": "",
+          "venue-title.original": "dish",
+          "meal.original": "",
+          "cuisine.original": "",
+          "venue-type": "",
+          "sort": [],
+          "email": "vukdukic@gmail.com",
+          "dish": [],
+          "address.original": "1756 Carmel Drive, Walnut Creek, CA 94596",
+          "dish.original": "",
+          "rating": "",
+          "venue-chain.original": "",
+          "sort.original": "",
+          "beverage.original": "",
+          "venue-type.original": "",
+          "venue-chain": "",
+          "phone": "4156359877",
+          "address": "1756 Carmel Drive, Walnut Creek, CA 94596",
+          "name.original": "Vuk",
+          "phone.original": "4156359877",
+          "beverage": [],
+          "name": "Vuk",
+          "cuisine": [],
+          "venue-facility.original": "",
+          "location": "",
+          "meal": "",
+          "rating.original": "",
+          "venue-facility": "",
+          "venue-title": "The Dish",
+          "stars.original": "",
+          "email.original": "vukdukic@gmail.com",
+          "open": ""
+        }
+      },
+      {
+        "name": "projects/crowdartbot/agent/sessions/43d40f3e-7916-a142-9a06-f5a6d6fe4f10/contexts/venues",
+        "lifespanCount": 2,
+        "parameters": {
+          "email": "vukdukic@gmail.com",
+          "dish": [],
+          "address.original": "1756 Carmel Drive, Walnut Creek, CA 94596",
+          "dish.original": "",
+          "rating": "",
+          "venue-chain.original": "",
+          "beverage.original": "",
+          "sort.original": "",
+          "venue-type.original": "",
+          "venue-chain": "",
+          "phone": "4156359877",
+          "address": "1756 Carmel Drive, Walnut Creek, CA 94596",
+          "name.original": "Vuk",
+          "phone.original": "4156359877",
+          "beverage": [],
+          "name": "Vuk",
+          "cuisine": [],
+          "venue-facility.original": "",
+          "location": "",
+          "meal": "",
+          "rating.original": "",
+          "venue-facility": "",
+          "venue-title": "The Dish",
+          "stars.original": "",
+          "email.original": "vukdukic@gmail.com",
+          "open": "",
+          "stars": "",
+          "location.original": "",
+          "open.original": "",
+          "meal.original": "",
+          "venue-title.original": "dish",
+          "cuisine.original": "",
+          "venue-type": "",
+          "sort": []
+        }
+      },
+      {
+        "name": "projects/crowdartbot/agent/sessions/43d40f3e-7916-a142-9a06-f5a6d6fe4f10/contexts/venues-eatingout",
+        "lifespanCount": 2,
+        "parameters": {
+          "stars": "",
+          "location.original": "",
+          "open.original": "",
+          "meal.original": "",
+          "venue-title.original": "dish",
+          "venue-type": "",
+          "cuisine.original": "",
+          "sort": [],
+          "email": "vukdukic@gmail.com",
+          "dish": [],
+          "address.original": "1756 Carmel Drive, Walnut Creek, CA 94596",
+          "dish.original": "",
+          "rating": "",
+          "venue-chain.original": "",
+          "beverage.original": "",
+          "sort.original": "",
+          "venue-type.original": "",
+          "venue-chain": "",
+          "phone": "4156359877",
+          "address": "1756 Carmel Drive, Walnut Creek, CA 94596",
+          "name.original": "Vuk",
+          "phone.original": "4156359877",
+          "beverage": [],
+          "name": "Vuk",
+          "cuisine": [],
+          "venue-facility.original": "",
+          "location": "",
+          "meal": "",
+          "rating.original": "",
+          "venue-facility": "",
+          "venue-title": "The Dish",
+          "stars.original": "",
+          "email.original": "vukdukic@gmail.com",
+          "open": ""
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/crowdartbot/agent/intents/169c9b46-bdb4-4cfd-afc0-6feb1891f416",
+      "displayName": "venues.eating_out.search - yes"
+    },
+    "intentDetectionConfidence": 1,
+    "languageCode": "en"
+  }
+}
