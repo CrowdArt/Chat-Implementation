@@ -1,0 +1,152 @@
+{
+  "responseId": "d2533899-8544-4cdd-b597-e0ea2a2fa452",
+  "queryResult": {
+    "queryText": "vukdukic@gmail.com",
+    "action": "outsearch-yes",
+    "parameters": {
+      "address": "1756 Carmel, walnut creek, ca 94956",
+      "phone": "1756",
+      "name": "Vuk",
+      "email": "vukdukic@gmail.com"
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "Thank you Vuk! I will contact you in a few minutes.",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "Vuk, I will be in touch."
+          ]
+        }
+      }
+    ],
+    "outputContexts": [
+      {
+        "name": "projects/crowdartbot/agent/sessions/43d40f3e-7916-a142-9a06-f5a6d6fe4f10/contexts/venueseating_outsearch-followup",
+        "lifespanCount": 1,
+        "parameters": {
+          "phone": "1756",
+          "address": "1756 Carmel, walnut creek, ca 94956",
+          "name.original": "Vuk",
+          "phone.original": "1756",
+          "beverage": [],
+          "name": "Vuk",
+          "cuisine": [],
+          "venue-facility.original": "",
+          "location": "",
+          "meal": "",
+          "rating.original": "",
+          "venue-facility": "",
+          "venue-title": "",
+          "email.original": "vukdukic@gmail.com",
+          "stars.original": "",
+          "open": "",
+          "stars": "",
+          "location.original": "",
+          "open.original": "",
+          "meal.original": "",
+          "venue-title.original": "",
+          "cuisine.original": "",
+          "venue-type": "restaurant",
+          "sort": [],
+          "email": "vukdukic@gmail.com",
+          "dish": [],
+          "address.original": "1756 Carmel, walnut creek, ca 94956",
+          "dish.original": "",
+          "rating": "",
+          "venue-chain.original": "",
+          "sort.original": "",
+          "beverage.original": "",
+          "venue-type.original": "restaurant",
+          "venue-chain": ""
+        }
+      },
+      {
+        "name": "projects/crowdartbot/agent/sessions/43d40f3e-7916-a142-9a06-f5a6d6fe4f10/contexts/venues",
+        "lifespanCount": 2,
+        "parameters": {
+          "venue-title.original": "",
+          "meal.original": "",
+          "cuisine.original": "",
+          "venue-type": "restaurant",
+          "sort": [],
+          "email": "vukdukic@gmail.com",
+          "dish": [],
+          "address.original": "1756 Carmel, walnut creek, ca 94956",
+          "dish.original": "",
+          "rating": "",
+          "venue-chain.original": "",
+          "beverage.original": "",
+          "sort.original": "",
+          "venue-type.original": "restaurant",
+          "venue-chain": "",
+          "phone": "1756",
+          "address": "1756 Carmel, walnut creek, ca 94956",
+          "name.original": "Vuk",
+          "phone.original": "1756",
+          "beverage": [],
+          "name": "Vuk",
+          "cuisine": [],
+          "venue-facility.original": "",
+          "location": "",
+          "meal": "",
+          "rating.original": "",
+          "venue-facility": "",
+          "venue-title": "",
+          "email.original": "vukdukic@gmail.com",
+          "stars.original": "",
+          "open": "",
+          "stars": "",
+          "location.original": "",
+          "open.original": ""
+        }
+      },
+      {
+        "name": "projects/crowdartbot/agent/sessions/43d40f3e-7916-a142-9a06-f5a6d6fe4f10/contexts/venues-eatingout",
+        "lifespanCount": 2,
+        "parameters": {
+          "location.original": "",
+          "open.original": "",
+          "meal.original": "",
+          "venue-title.original": "",
+          "venue-type": "restaurant",
+          "cuisine.original": "",
+          "sort": [],
+          "email": "vukdukic@gmail.com",
+          "dish": [],
+          "address.original": "1756 Carmel, walnut creek, ca 94956",
+          "dish.original": "",
+          "rating": "",
+          "venue-chain.original": "",
+          "beverage.original": "",
+          "sort.original": "",
+          "venue-type.original": "restaurant",
+          "venue-chain": "",
+          "phone": "1756",
+          "address": "1756 Carmel, walnut creek, ca 94956",
+          "name.original": "Vuk",
+          "phone.original": "1756",
+          "beverage": [],
+          "name": "Vuk",
+          "cuisine": [],
+          "venue-facility.original": "",
+          "location": "",
+          "meal": "",
+          "rating.original": "",
+          "venue-facility": "",
+          "venue-title": "",
+          "stars.original": "",
+          "email.original": "vukdukic@gmail.com",
+          "open": "",
+          "stars": ""
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/crowdartbot/agent/intents/169c9b46-bdb4-4cfd-afc0-6feb1891f416",
+      "displayName": "recommend search - yes"
+    },
+    "intentDetectionConfidence": 1,
+    "languageCode": "en"
+  }
+}
