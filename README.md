@@ -243,10 +243,12 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 
 ## ngrok
 * [ngrok dashboard](https://dashboard.ngrok.com/get-started)
+With the fremium version, each time we run a ngrok command a new address will be created
 #### Steps:
 1. sudo cp ngrok /usr/local/bin
 2. /usr/local/bin/ngrok authtoken tokenxxxxxx
 3. /usr/local/bin/ngrok http 5000
+4. /usr/local/bin/ngrok http -subdomain=xxxx 5000
 
 ## Node.js
 * [Node.js Request Module Tutorial](https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/)
