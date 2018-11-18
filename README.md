@@ -20,6 +20,7 @@
 * [Links](#links)
   * [Chat Apps](#chat-apps)
 * [mongoDB](#mongodb)
+* [ngrok](#ngrok)
 * [NPM Packages](#npm-packages)
   * [joi-password-complexity](#joi-password-complexity)
 * [Object Oriented Programming](#object-oriented-programming)
@@ -239,6 +240,13 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 
 ## mongoDB
 * [mongoDB Atlas](https://cloud.mongodb.com/v2/5ba07910c0c6e3623d88789f#clusters)
+
+## ngrok
+* [ngrok dashboard](https://dashboard.ngrok.com/get-started)
+#### Steps:
+1. sudo cp ngrok /usr/local/bin
+2. /usr/local/bin/ngrok authtoken tokenxxxxxx
+3. /usr/local/bin/ngrok http 5000
 
 ## Node.js
 * [Node.js Request Module Tutorial](https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/)
