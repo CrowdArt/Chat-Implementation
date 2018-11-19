@@ -224,6 +224,7 @@ Bulding webservices on top of Node.js.
 ### Google Cloud SDK
 * [Google Cloud SDK Documentation](https://cloud.google.com/sdk/docs/?authuser=1)
 * ./google-cloud-sdk/bin/gcloud init
+* gcloud init --skip-diagnostics
 
 ## Heroku
 * [View Logs](https://devcenter.heroku.com/articles/logging#view-logs)
