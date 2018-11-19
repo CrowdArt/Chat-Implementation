@@ -25,3 +25,7 @@ Some things to try next:
 
 * Run `gcloud --help` to see the Cloud Platform services you can interact with. And run `gcloud help COMMAND` to get help on any gcloud command.
 * Run `gcloud topic -h` to learn about advanced features of the SDK like arg files and output formatting
+
+### Steps:
+#### Activate Service Account Credentials
+* ./google-cloud-sdk/bin/gcloud auth activate-service-account --key-file=/Users/vukdukic/Downloads/reactpageagent-1583c-acee40425521.json
