@@ -15,6 +15,7 @@
 * [Express](#express)
 * [Google](#google)
     * [Dialogflow](#dialogflow)
+    * [Google Cloud SDK](#google-cloud-sdk)
 * [Heroku](#heroku)
 * [joi](#joi)
 * [Links](#links)
@@ -220,6 +221,9 @@ Bulding webservices on top of Node.js.
 * [Setting Up Authentication for Server to Server Production Applications](https://cloud.google.com/docs/authentication/production)
 * [Service Accounts](https://cloud.google.com/iam/docs/service-accounts)
 * [Understanding Service Accounts](https://cloud.google.com/iam/docs/understanding-service-accounts)
+### Google Cloud SDK
+* [Google Cloud SDK Documentation](https://cloud.google.com/sdk/docs/?authuser=1)
+* ./google-cloud-sdk/bin/gcloud init
 
 ## Heroku
 * [View Logs](https://devcenter.heroku.com/articles/logging#view-logs)
