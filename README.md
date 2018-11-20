@@ -189,6 +189,11 @@ Every time you restart the computer run this command to set up the environment v
 * [Google Project FAQ](https://dialogflow.com/docs/concepts/google-projects-faq)
 * [Method: projects.agent.sessions.detectIntent](https://cloud.google.com/dialogflow-enterprise/docs/reference/rest/v2beta1/projects.agent.sessions/detectIntent)
 * [Follow-up intent expressions](https://dialogflow.com/docs/reference/follow-up-intent-expressions)
+* [Sharing](https://dialogflow.com/docs/concepts/sharing)
+* [Share your agent](https://dialogflow.com/docs/agents/share)
+* [Setting up authentication](https://dialogflow.com/docs/reference/v2-auth-setup)
+* [Method: projects.agent.sessions.detectIntent](https://cloud.google.com/dialogflow-enterprise/docs/reference/rest/v2beta1/projects.agent.sessions/detectIntent)
+* 
 
 ## ES6
 `use strict;` Defines that JavaScript code should be executed in "strict mode", a literal expression.  With strict mode, you can not, for example, use undeclared variables.
