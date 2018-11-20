@@ -30,7 +30,6 @@
 * [RESTful](#restful)
 * [Sendgrid](#sendgrid)
  
-
 ## APIs
 * [myTeachable](https://sso.teachable.com/secure/teachable_accounts/profile)
 * [Cassandra vs MongoDB](https://stackoverflow.com/questions/2892729/mongodb-vs-cassandra?rq=1)
