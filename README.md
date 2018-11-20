@@ -231,9 +231,21 @@ Bulding webservices on top of Node.js.
 * [Google Cloud SDK Documentation](https://cloud.google.com/sdk/docs/)
 ### Google Cloud SDK
 * [Google Cloud SDK Documentation](https://cloud.google.com/sdk/docs/?authuser=1)
+### Commands
 * ./google-cloud-sdk/bin/gcloud init
 * gcloud init --skip-diagnostics
+#### Activate service account
+* ./google-cloud-sdk/bin/gcloud auth activate-service-account
+* ./google-cloud-sdk/bin/gcloud auth print-access-token
 
+#### Set a variable
+* export REACT_APP_DIALOGFLOW_CLIENT_KEY=
+* export REACT_APP_DIALOGFLOW_CLIENT_ID=
+* export REACT_APP_DF_SESSION_ID=
+#### Print variable set
+* echo $REACT_APP_DIALOGFLOW_CLIENT_KEY
+### google-oauth-jwt
+* [npm package](https://www.npmjs.com/package/google-oauth-jwt)
 ## Heroku
 * [View Logs](https://devcenter.heroku.com/articles/logging#view-logs)
 
