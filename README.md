@@ -221,6 +221,9 @@ Bulding webservices on top of Node.js.
 * [Setting Up Authentication for Server to Server Production Applications](https://cloud.google.com/docs/authentication/production)
 * [Service Accounts](https://cloud.google.com/iam/docs/service-accounts)
 * [Understanding Service Accounts](https://cloud.google.com/iam/docs/understanding-service-accounts)
+* [gcloud auth application-default print-access-token](https://cloud.google.com/sdk/gcloud/reference/auth/application-default/print-access-token)
+* [gcloud auth activate-service-account](https://cloud.google.com/sdk/gcloud/reference/auth/activate-service-account)
+* [Google Cloud SDK Documentation](https://cloud.google.com/sdk/docs/)
 ### Google Cloud SDK
 * [Google Cloud SDK Documentation](https://cloud.google.com/sdk/docs/?authuser=1)
 * ./google-cloud-sdk/bin/gcloud init
@@ -245,11 +248,14 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 
 ## mongoDB
 * [mongoDB Atlas](https://cloud.mongodb.com/v2/5ba07910c0c6e3623d88789f#clusters)
+* [Introduction to Mongoose for MongoDB](https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c57)
+* [mLab](https://mlab.com/home?newLogin=1)
 
 ## ngrok
 ngrok allows you to expose a web server running on your local machine to the internet. 
 * [ngrok dashboard](https://dashboard.ngrok.com/get-started)
 With the fremium version, each time we run a ngrok command a new address will be created
+* [ngrok documentation](https://ngrok.com/docs)
 #### Steps:
 1. sudo cp ngrok /usr/local/bin
 2. /usr/local/bin/ngrok authtoken tokenxxxxxx
