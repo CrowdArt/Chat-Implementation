@@ -220,6 +220,13 @@ Bulding webservices on top of Node.js.
 * Subscription fields: messages, messaging postbacks
 * [Messenger Settings](https://developers.facebook.com/apps/254621491907588/messenger/settings/)
 * [chatbot-facebook-v2-final](https://github.com/jbergant/chatbot-facebook-v2-final)
+* [Reference Documentation](https://developers.facebook.com/docs/messenger-platform/reference)
+* [Integration Components](https://developers.facebook.com/docs/messenger-platform/introduction/integration-components)
+* [Message Templates](https://developers.facebook.com/docs/messenger-platform/send-messages/templates)
+* [Messenger Platform](https://developers.facebook.com/docs/messenger-platform)
+
+### Graph API
+* [Graph API Docs](https://developers.facebook.com/docs/graph-api)
 
 ## Google
 * [Actions on Google](https://console.actions.google.com/u/0/project/crowdart-8e66f/simulator/?pli=1)
