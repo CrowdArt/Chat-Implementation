@@ -15,6 +15,7 @@
 * [Express](#express)
 * [Facebook](#facebook)
   * [Facebook Messenger](#facebook-messenger)
+* [Git](#git)
 * [Google](#google)
     * [Dialogflow](#dialogflow)
     * [Google Cloud SDK](#google-cloud-sdk)
@@ -227,6 +228,9 @@ Bulding webservices on top of Node.js.
 
 ### Graph API
 * [Graph API Docs](https://developers.facebook.com/docs/graph-api)
+
+## Git
+* [https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html](Git on the commandline)
 
 ## Google
 * [Actions on Google](https://console.actions.google.com/u/0/project/crowdart-8e66f/simulator/?pli=1)
