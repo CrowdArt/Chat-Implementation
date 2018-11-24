@@ -292,6 +292,7 @@ ngrok allows you to expose a web server running on your local machine to the int
 * [ngrok dashboard](https://dashboard.ngrok.com/get-started)
 With the fremium version, each time we run a ngrok command a new address will be created
 * [ngrok documentation](https://ngrok.com/docs)
+* [INSPECT](http://127.0.0.1:4040/inspect/http)
 #### Steps:
 1. sudo cp ngrok /usr/local/bin
 2. /usr/local/bin/ngrok authtoken tokenxxxxxx
