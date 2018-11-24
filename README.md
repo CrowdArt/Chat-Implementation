@@ -16,6 +16,7 @@
 * [Facebook](#facebook)
   * [Facebook Messenger](#facebook-messenger)
     * [Quick Start for Website](#quick-start-for-website)
+    * [Transitioning from App-level to Page-level Subscription Messaging](#transitioning-from-app-level-to-page-level-subscription-messaging)
 * [Git](#git)
 * [Google](#google)
     * [Dialogflow](#dialogflow)
@@ -228,6 +229,8 @@ Bulding webservices on top of Node.js.
 * [Messenger Platform](https://developers.facebook.com/docs/messenger-platform)
 #### Quick Start for Website
 * [Quick Start for Website](https://developers.facebook.com/quickstarts/274992020027851/?platform=web)
+#### Transitioning from App-level to Page-level Subscription Messaging
+* [Transitioning from App-level to Page-level Subscription Messaging](https://developers.facebook.com/docs/messenger-platform/policy/app-to-page-subscriptions/)
 
 ### Graph API
 * [Graph API Docs](https://developers.facebook.com/docs/graph-api)
