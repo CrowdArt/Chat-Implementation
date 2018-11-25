@@ -289,6 +289,7 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 #### CLI
 * `sudo mkdir -p /data/db`
 * `sudo chown -R `id -un` /data/db`
+* `mongod` - mongo daemon (computer program that runs as a background process)
 
 ## ngrok
 ngrok allows you to expose a web server running on your local machine to the internet. 
