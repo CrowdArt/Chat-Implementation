@@ -26,6 +26,8 @@
 * [Links](#links)
   * [Chat Apps](#chat-apps)
 * [mongoDB](#mongodb)
+  * CLI
+  * Implementation
 * [ngrok](#ngrok)
 * [NPM Packages](#npm-packages)
   * [joi-password-complexity](#joi-password-complexity)
