@@ -286,6 +286,9 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 * [mongoDB Atlas](https://cloud.mongodb.com/v2/5ba07910c0c6e3623d88789f#clusters)
 * [Introduction to Mongoose for MongoDB](https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c57)
 * [mLab](https://mlab.com/home?newLogin=1)
+#### CLI
+* `sudo mkdir -p /data/db`
+* `sudo chown -R `id -un` /data/db`
 
 ## ngrok
 ngrok allows you to expose a web server running on your local machine to the internet. 
