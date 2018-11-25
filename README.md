@@ -290,6 +290,11 @@ joi allows you to create blueprints or schemas for JavaScript objects (an object
 * `sudo mkdir -p /data/db`
 * `sudo chown -R `id -un` /data/db`
 * `mongod` - mongo daemon (computer program that runs as a background process)
+#### Implementation
+* `mongoose.connect('mongodb://localhost/databaseName');` //connection string for local server - 
+it prod it should come from the config file
+* `mongoose.connect(config.mongoURI, { useNewUrlParser: true });`
+* `connect` method returns a promise
 
 ## ngrok
 ngrok allows you to expose a web server running on your local machine to the internet. 
