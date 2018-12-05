@@ -17,6 +17,7 @@
   * [Facebook Messenger](#facebook-messenger)
     * [Quick Start for Website](#quick-start-for-website)
     * [Transitioning from App-level to Page-level Subscription Messaging](#transitioning-from-app-level-to-page-level-subscription-messaging)
+    * [Webhook](#webhook)
 * [Git](#git)
 * [Google](#google)
     * [Dialogflow](#dialogflow)
@@ -229,6 +230,12 @@ Bulding webservices on top of Node.js.
 * [Integration Components](https://developers.facebook.com/docs/messenger-platform/introduction/integration-components)
 * [Message Templates](https://developers.facebook.com/docs/messenger-platform/send-messages/templates)
 * [Messenger Platform](https://developers.facebook.com/docs/messenger-platform)
+### Webhook
+Facebook will make a request to that URL from their servers to deliver the updates – so of course it has to be publicly reachable over the internet, which a localhost address obviously isn’t.
+
+Facebook will send a request to that URL if any data for the object and fields that you subscribed for changes. And what the data structure looks like, is described in the docs. For page fields it returns the new content directly; for user fields it will only tell you which fields have changed, so that you can then make a request for that data.
+
+You can only get real-time updates for pages that you have admin access to. And the Public Feed API is not deprecated; but access to it is limited to a small set of Facebook partners. You can not apply to become one – if you absolutely need this kind of data, then you’ll have to contact one of those partners and have them develop a solution for you.
 #### Quick Start for Website
 * [Quick Start for Website](https://developers.facebook.com/quickstarts/274992020027851/?platform=web)
 #### Transitioning from App-level to Page-level Subscription Messaging
