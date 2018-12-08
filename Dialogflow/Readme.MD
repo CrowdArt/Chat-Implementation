@@ -1,4 +1,13 @@
 # Dining Out
+## Contexts
+Connect intents - Contexts represent the current context of a user's request. This is helpful for differentiating phrases which may be vague or have different meanings depending on the user’s preferences, geographic location, the current page in an app, or the topic of conversation. Contexts can be used to structure non-linear conversations. 
+## Events
+Trigger the intent from non-verbal signals - Events allow you to invoke an intent based on a non-verbal signal, such as a button click, or the start of a new conversation with a bot. Events can be used by external services to trigger Dialogflow intents, for example the Google Assistant's built-in intents.
+
+
+
+
+
 ## Default Welcome Intent
 #### Events
 * Welcome
